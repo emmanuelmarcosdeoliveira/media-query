@@ -32,7 +32,7 @@ Para fazer o deploy desse projeto rode
 ## Referência
 
  - [Estudonauta](https://www.estudonauta.com/)
- - [Curso em video](https://cursoemvideo.com.br)
+ - [Curso em video](https://cursoemvideo.com)
  
 
 
