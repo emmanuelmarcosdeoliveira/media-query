@@ -14,13 +14,18 @@ Nesse exercício foi criado um arquivo base HTML, aonde ele se comporta de forma
 
 ![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
 
+## Demonstração
+
+Clique no link para acessar. <br>
+ [Media-Query](https://media-query-wheat.vercel.app/)
+
 
 ## Deploy
 
 Para fazer o deploy desse projeto rode
 
 ```bash
-  npm run deploy
+  https://media-query-wheat.vercel.app/
 ```
 
 
