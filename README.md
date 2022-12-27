@@ -12,7 +12,7 @@ Nesse exercício foi criado um arquivo base HTML, aonde ele se comporta de forma
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
 
 
 ## Deploy
@@ -32,7 +32,7 @@ Para fazer o deploy desse projeto rode
 ## Referência
 
  - [Estudonauta](https://www.estudonauta.com/)
- - [Cruso em video](https://cursoemvideo.com.br)
+ - [Curso em video](https://cursoemvideo.com.br)
  
 
 
