@@ -1,10 +1,12 @@
-
-# Projeto Responsivo
-
-Nesse exercício foi criado um arquivo base HTML, aonde ele se comporta de forma diferente de acordo com o tamnho da tela.
+![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
+# Projeto - Responsivo
+## Descrição:
+Nome |   Descrição
+---- | -----------
+Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
 ## Funcionalidades
 
-- Responsivo
+- Responsividade
 - Preview em tempo real
 - Modo tela cheia
 - Multiplataforma
@@ -17,7 +19,7 @@ Nesse exercício foi criado um arquivo base HTML, aonde ele se comporta de forma
 ## Demonstração
 
 Clique no link para acessar. <br>
- [Media-Query](https://media-query-wheat.vercel.app/)
+ [Projeto - Responsivo ](https://media-query-wheat.vercel.app/)
 
 
 ## Deploy
