@@ -1,9 +1,13 @@
-![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
+![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png)
+
 # Projeto - Responsivo
+
 ## Descrição:
-Nome |   Descrição
----- | -----------
-Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
+
+| Nome       | Descrição                                                                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.** |
+
 ## Funcionalidades
 
 - Responsividade
@@ -11,16 +15,12 @@ Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se 
 - Modo tela cheia
 - Multiplataforma
 
-
-## Screenshots
+## Demonstração
 
 ![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/media-query.gif)
 
-## Demonstração
-
 Clique no link para acessar. <br>
- [Projeto - Responsivo ](https://media-query-wheat.vercel.app/)
-
+[Projeto - Responsivo ](https://media-query-wheat.vercel.app/)
 
 ## Deploy
 
@@ -30,16 +30,12 @@ Para fazer o deploy desse projeto rode
   https://media-query-wheat.vercel.app/
 ```
 
-
 ## Aprendizados
 
--  Exemplos de Media Queries,
- - Device Break Point, 
+- Exemplos de Media Queries,
+- Device Break Point,
 
 ## Referência
 
- - [Estudonauta](https://www.estudonauta.com/)
- - [Curso em video](https://cursoemvideo.com)
- 
-
-
+- [Estudonauta](https://www.estudonauta.com/)
+- [Curso em video](https://cursoemvideo.com)
