@@ -14,7 +14,7 @@ Responsivo | Nesse exercício foi criado um arquivo base **HTML**, aonde ele se 
 
 ## Screenshots
 
-![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
+![Media-Query]()
 
 ## Demonstração
 
