@@ -44,7 +44,7 @@ Para fazer o deploy desse projeto rode
 - Exemplos de Media Queries,
 - Device Break Point,
 
-## Referência
+## Referências
 
 - [Estudonauta](https://www.estudonauta.com/)
 - [Curso em video](https://cursoemvideo.com)
