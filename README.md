@@ -1,5 +1,12 @@
 ![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png)
 
+[Descrição](#projeto---android) | 
+[Funcionalidades](#funcionalidades) |
+[Gif/Screenshot](#gifscreenshot-do-projeto) |
+[Demostração](#demonstração) |
+[Deploy](#deploy) |
+[Aprendizados](#aprendizados) |
+[Referencias](#referências) |
 # Projeto - Responsivo
 
 ## Descrição:
@@ -15,10 +22,12 @@
 - Modo tela cheia
 - Multiplataforma
 
-## Demonstração
+
+## Gif/Screenshot do projeto
 
 ![Media-Query](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/media-query.gif)
 
+## Demonstração
 Clique no link para acessar. <br>
 [Projeto - Responsivo ](https://media-query-wheat.vercel.app/)
 
